@@ -1,0 +1,54 @@
+{
+  "name": "firefoxos.ime",
+  "description": "firefoxos.ime",
+  "type": "privileged",
+  "role": "input",
+  "launch_path": "/settings.html",
+  "developer": {
+    "name": "Praveen Sridhar",
+    "url": "http://psbots.blogspot.in"
+  },
+  "permissions": {
+    "settings": { "access": "readwrite" },
+    "input": {}
+  },
+  "inputs": {
+    "number": {
+      "launch_path": "/index.html#numberLayout",
+      "name": "Number",
+      "description": "Numeric layout",
+      "types": ["number"],
+      "locales": {
+        "en-US": {
+          "name": "Number",
+          "description": "Numeric layout"
+        }
+      }
+    },
+    "malayalam": {
+      "launch_path": "/index.html#ml",
+      "name": "മലയാളം",
+      "description": "Malayalam layout",
+      "types":["text","url","email"]
+    },
+    "hi": {
+      "launch_path": "/index.html#hi",
+      "name": "हिन्दी",
+      "description": "Malayalam layout",
+      "types":["text","url","email"]
+    },
+    "hijq": {
+      "launch_path": "/index.html#hijq",
+      "name": "हिन्दी - Transliteration",
+      "description": "Hindi Transliteration",
+      "types":["text","url","email"]
+    }
+  },
+  "locales": {
+    "en-US": {
+      "name": "firefoxos.ime",
+      "description": "firefoxos.ime"
+    }
+  },
+  "default_locale": "en-US"
+}
