@@ -30,53 +30,56 @@ Keyboards.ml = {
     'റ':'ർ',
     'ശ':'ൾ',
     'ക':'ൿ',
-    'ന':'ൻ'
+    'ന':'ൻ',
+    'ല':'ൽ'
   },
   upperCase: {
-    'ൗ':'ഡ',
-    'ൈ':'ഢ',
+    'ൈ':'ൌ',
+    'െ':'േ',
+    'ര':'റ',
+    'ത':'ഥ',
+    'ു':'ൂ',
+    'ി':'ീ',
+    'പ':'b',
+
+    'ാ':'അ',
+    'സ':'ksha',
+    'ദ':'ധ',
+    'ഗ':'ഘ',
+    'ഹ':'aha',
+
     'ാ':'',
-    'ീ':'യ',
-    'ൂ':'ഞ',
     'ബ':'ഭ',
     'ഹ':'ങ',
-    'ഗ':'ഘ',
-    'ദ':'ധ',
+
+
     'ജ':'ഝ',
 
-    'ോ':'ട',
+    'ൊ':'ോ',
     'േ':'ഠ',
     '്':'',
-    'ി':'ഷ',
-    'ു':'ക്ഷ',
-    'പ':'ഫ',
-    'ര':'റ',
     'ക':'ഖ',
-    'ത':'ഥ',
     'ച':'ഛ',
 
     'ൊ':'ൃ',
-    'െ':'ഋ',
     'ം':'ഃ',
-    'മ':'ൽ',
+    'മ':'ം',
     'ന':'ണ',
-    'വ':'ഴ',
     'ല':'ള',
     'സ':'ശ'
   },
   keys: [
     [
-      { value: 'ൗ' }, { value: 'ൈ' }, { value: 'ാ' }, { value: 'ീ' },
-      { value: 'ൂ' }, { value: 'ബ' }, { value: 'ഹ' }, { value: 'ഗ' },
-      { value: 'ദ' }, { value: 'ജ' }
+      { value: 'ൈ' }, { value: 'വ' }, { value: 'െ' }, { value: 'ര' },
+      { value: 'ത' }, { value: 'യ' }, { value: 'ു' }, { value: 'ി' },
+      { value: 'ൊ' }, { value: 'പ' }
     ], [
-      { value: 'ോ' }, { value: 'േ' }, { value: '്' }, { value: 'ി' },
-      { value: 'ു' }, { value: 'പ' }, { value: 'ര' }, { value: 'ക' },
-      { value: 'ത' }, { value: 'ച' }
+      { value: 'ാ' }, { value: 'സ' }, { value: 'ദ' }, { value: 'ഫ' }, { value: 'ഗ' },{ value: 'ഹ' },
+      { value: 'ജ' }, { value: 'ക' }, { value: 'ല' }
     ], [
       { value: '⇪',ratio:1, keyCode: KeyEvent.DOM_VK_CAPS_LOCK },
-      { value: 'ൊ' }, { value: 'െ' }, { value: 'ം' }, { value: 'മ' },
-      { value: 'ന' }, { value: 'വ' }, { value: 'ല' }, { value: 'സ' },
+      { value: 'ഴ' }, { value: '്' }, { value: 'ച' }, { value: 'വ' },
+      { value: 'ബ' }, { value: 'ന' }, { value: 'മ' },
        { value: '⌫',ratio:1, keyCode: KeyEvent.DOM_VK_BACK_SPACE }
     ], [
       { value: '&nbsp', ratio: 9, keyCode: KeyboardEvent.DOM_VK_SPACE },
