@@ -42,6 +42,24 @@
       "name": "हिन्दी - Transliteration",
       "description": "Hindi Transliteration",
       "types":["text","url","email"]
+    },
+    "kannada": {
+      "launch_path": "/index.html#kn",
+      "name": "ಕನ್ನಡ",
+      "description": "Kannada KaGaPa Phonetic",
+      "types":["text","url","email"]
+    },
+    "telugu": {
+      "launch_path": "/index.html#te",
+      "name": "తెలుగు",
+      "description": "Telugu KaGaPa Phonetic",
+      "types":["text","url","email"]
+    },
+    "gujarati": {
+      "launch_path": "/index.html#gu",
+      "name": "ગુજરાતી",
+      "description": "Gujarati",
+      "types":["text","url","email"]
     }
   },
   "locales": {
