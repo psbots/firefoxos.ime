@@ -60,6 +60,12 @@
       "name": "ગુજરાતી",
       "description": "Gujarati",
       "types":["text","url","email"]
+    },
+    "odia": {
+      "launch_path": "/index.html#or",
+      "name": "ଓଡ଼ିଆ",
+      "description": "Odia",
+      "types":["text","url","email"]
     }
   },
   "locales": {
