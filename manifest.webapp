@@ -66,6 +66,12 @@
       "name": "ଓଡ଼ିଆ",
       "description": "Odia",
       "types":["text","url","email"]
+    },
+    "bn-Avro": {
+      "launch_path": "/index.html#bn-Avro",
+      "name": "Bengali - Avro",
+      "description": "bn-Avro",
+      "types":["text","url","email"]
     }
   },
   "locales": {
