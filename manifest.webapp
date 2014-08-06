@@ -34,13 +34,25 @@
     "hi": {
       "launch_path": "/index.html#hi",
       "name": "हिन्दी",
-      "description": "Malayalam layout",
+      "description": "Hindi layout",
+      "types":["text","url","email"]
+    },
+    "hi-bolnagri": {
+      "launch_path": "/index.html#hi-bolnagri",
+      "name": "हिन्दी bolnagri",
+      "description": "Hindi layout",
       "types":["text","url","email"]
     },
     "hijq": {
       "launch_path": "/index.html#hijq",
       "name": "हिन्दी - Transliteration",
       "description": "Hindi Transliteration",
+      "types":["text","url","email"]
+    },
+    "as": {
+      "launch_path": "/index.html#as",
+      "name": "অসমীয়া",
+      "description": "Assamese layout",
       "types":["text","url","email"]
     },
     "kannada": {
