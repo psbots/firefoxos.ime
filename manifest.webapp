@@ -61,6 +61,30 @@
       "description": "Assamese layout",
       "types":["text","url","email"]
     },
+    "mar": {
+      "launch_path": "/index.html#mar",
+      "name": "मराठी",
+      "description": "Marathi layout",
+      "types":["text","url","email"]
+    },
+    "san": {
+      "launch_path": "/index.html#san",
+      "name": "संस्कृतम्",
+      "description": "Sanskrit layout",
+      "types":["text","url","email"]
+    },
+    "nep": {
+      "launch_path": "/index.html#nep",
+      "name": "नेपाल लिपि",
+      "description": "Nepali layout",
+      "types":["text","url","email"]
+    },
+    "kas": {
+      "launch_path": "/index.html#kas",
+      "name": "कॉशुर",
+      "description": "Kashmiri layout",
+      "types":["text","url","email"]
+    },
     "kannada": {
       "launch_path": "/index.html#kn",
       "name": "ಕನ್ನಡ",
