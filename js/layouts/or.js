@@ -4,21 +4,13 @@ Keyboards.or = {
   imEngine: 'india',
   menuLabel: 'ଓଡ଼ିଆ',
   secondLayout: true,
-  alternateLayoutKey: '?୧୨୩',
+  alternateLayoutKey: '୧୨୩',
   basicLayoutKey: 'କଖଗ',
   types: ['text', 'url', 'email'],
   width: 11,
   keyClassName: 'odia',
   alt: {
-    'र': 'ॠऋ',
-    'म': 'ॐ',
-    'न': 'ङ',
-    'ल': 'ऌॡ',
-    'य': 'य़',
-    'ओ': 'ऒ',
-    'ए': 'ऍऎ',
-    'ळ': 'ऴ',
-    'ृ': 'ॄ'
+    'ୠ':'ୄ'
   },
   upperCase: {
     'ୌ':'ଔ',
@@ -39,20 +31,20 @@ Keyboards.or = {
     'ି':'ଇ',
     'ୁ':'ଉ',
     'ପ':'ଫ',
-    'ର':'ର',
+    'ର':'ୠ',
     'କ':'ଖ',
     'ତ':'ଥ',
     'ଚ':'ଛ',
     'ଟ':'ଠ',
 
-    'ୄ':'ୠ',
+    'ଷ':'ଷ',
     'ଂ':'ଁ',
     'ମ':'ଣ',
     'ନ':'ନ',
     'ୱ':'ୱ',
     'ଲ':'ଳ',
     'ସ':'ଶ',
-    'ୟ':'ସ',
+    'ୟ':'ଯ',
     '଼':'ଞ'
   },
   keys: [
@@ -66,8 +58,8 @@ Keyboards.or = {
       { value: 'ତ' }, { value: 'ଚ' }, { value: 'ଟ' }
     ], [
       { value: '⇪', keyCode: KeyEvent.DOM_VK_CAPS_LOCK },
-      { value: 'ୄ' }, { value: 'ଂ' }, { value: 'ମ' }, { value: 'ନ' },
-      { value: 'ୱ' }, { value: 'ଲ' }, { value: 'ସ' }, { value: 'ୟ' },
+      { value: 'ଂ' }, { value: 'ମ' }, { value: 'ନ' },
+      { value: 'ୱ' }, { value: 'ଲ' }, { value: 'ସ' },{ value: 'ଷ' },  { value: 'ୟ' },
       { value: '଼' }, { value: '⌫', keyCode: KeyEvent.DOM_VK_BACK_SPACE }
     ], [
       { value: '&nbsp', ratio: 9, keyCode: KeyboardEvent.DOM_VK_SPACE },
