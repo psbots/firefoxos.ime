@@ -809,3 +809,53 @@ bubble above the key when you tap and hold. */
     font-size: 2rem;
   }
 }
+
+/* Malayalam */
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ൈ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ോ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ൊ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ാ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="െ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ു"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ി"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="്"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ം"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ൌ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="േ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ൂ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ീ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="മ്പ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ക്ഷ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ോ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ൃ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ോ"] {
+  font-size: 1.5rem;
+}
+
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ഝ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ഛ"],
+.keyboard-key.malayalam > .visual-wrapper > span[data-label="ഘ"] {
+  font-size: 2rem;
+}
+
+
+/* Odia */
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୈ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ା"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୀ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୂ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="େ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="୍"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ି"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୁ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୄ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ଂ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="଼"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ଁ"] {
+  font-size: 1.8rem;
+}
+
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୋ"],
+.keyboard-key.odia > .visual-wrapper > span[data-label="ୌ"] {
+  font-size: 1.7rem;
+}

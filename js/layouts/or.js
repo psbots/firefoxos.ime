@@ -4,8 +4,8 @@ Keyboards.or = {
   imEngine: 'india',
   menuLabel: 'ଓଡ଼ିଆ',
   secondLayout: true,
-  alternateLayoutKey: '?१२३',
-  basicLayoutKey: 'कखग',
+  alternateLayoutKey: '?୧୨୩',
+  basicLayoutKey: 'କଖଗ',
   types: ['text', 'url', 'email'],
   width: 11,
   keyClassName: 'odia',
@@ -33,7 +33,7 @@ Keyboards.or = {
     'ଜ':'ଝ',
     'ଡ':'ଢ',
 
-    '\u0B4B':'ଓ',
+    'ୋ':'ଓ',
     'େ':'ଏ',
     '୍':'ଅ',
     'ି':'ଇ',
@@ -61,7 +61,7 @@ Keyboards.or = {
       { value: 'ୂ' }, { value: 'ବ' }, { value: 'ହ' }, { value: 'ଗ' },
       { value: 'ଦ' }, { value: 'ଜ' }, { value: 'ଡ' }
     ], [
-      { value: '\u0B4B' }, { value: 'େ' }, { value: '୍' }, { value: 'ି' },
+      { value: 'ୋ' }, { value: 'େ' }, { value: '୍' }, { value: 'ି' },
       { value: 'ୁ' }, { value: 'ପ' }, { value: 'ର' }, { value: 'କ' },
       { value: 'ତ' }, { value: 'ଚ' }, { value: 'ଟ' }
     ], [
