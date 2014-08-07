@@ -49,6 +49,12 @@
       "description": "Hindi Transliteration",
       "types":["text","url","email"]
     },
+    "pa": {
+      "launch_path": "/index.html#pa",
+      "name": "ਪੰਜਾਬੀ",
+      "description": "Punjabi - Gurmukhi layout",
+      "types":["text","url","email"]
+    },
     "as": {
       "launch_path": "/index.html#as",
       "name": "অসমীয়া",
