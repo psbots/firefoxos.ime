@@ -1,4 +1,4 @@
-firefoxos.ime
+firefoxos.ime - SMC
 =============
 
 Input Methods for Firefox OS : GSoC 2014
